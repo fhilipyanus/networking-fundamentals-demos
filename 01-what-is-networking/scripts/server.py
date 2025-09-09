@@ -1,6 +1,6 @@
 import socket
 
-# Create the TCP Socket
+# Create the Socket
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 # Bind to localhost on port 12345

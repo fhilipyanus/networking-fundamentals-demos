@@ -1,6 +1,6 @@
 import socket
 
-# Create socket
+# Create the socket
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 # Connect to server
