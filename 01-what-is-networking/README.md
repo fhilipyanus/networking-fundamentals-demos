@@ -7,6 +7,8 @@ I ran these experiments to better understand the internet and networks, by turni
 
 This way, each experiment becomes both a practical demo and a learning journal, showing not only how networks work, but also how to investigate and explain them.
 
+Note: This is a structured explanation of the experiments; for my raw learning experience, head to [notes](/01-what-is-networking/notes.md)
+
 # Experiment 1: Ping
 ## The Action
 The `ping` command is a network utility used to test connectivity and measure the latency to another device on a network. It works by sending an ICMP echo request to the target host (specified by IP address or domain name) and waiting for an ICMP echo reply. The syntax of the command is:
